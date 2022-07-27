@@ -1,0 +1,1 @@
+export const server_name = LOCAL_SERVER || "" // defined by webpack.config.js

@@ -1,0 +1,5 @@
+deploy.sh
+/**/resources/
+/**/docker-compose.yaml
+/**/node_modules/
+/**/build/
